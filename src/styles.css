@@ -59,9 +59,6 @@ p{
 .color{
      background-color: var(--secondary-color);;
 }
-.cent{
-    text-align: center;
-}
 @media (max-width: 768px){
     h1{
         font-size: 52px;

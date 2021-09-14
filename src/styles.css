@@ -83,5 +83,6 @@ p{
     }
    .btn-branding-outline{
        display: flex;
+       text-align: center;
    }
 }

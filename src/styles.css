@@ -56,16 +56,29 @@ p{
 .project{
     font-size: 67px;
 }
-@media (max-width: 470px){
+@media (max-width: 768px){
     h1{
         font-size: 52px;
         line-height: 2;
+        text-align: center;
     }
 
     h2{
         font-size: 36px;
+        text-align: center;
+    }
+    p{
+        font-size: 24px;
+        text-align: center;
     }
     .hero{
         padding: 80px 20px;
+    }
+    .project{
+        font-size: 48px;
+        text-align: center;
+    }
+    a{
+        margin: 0 auto;
     }
 }

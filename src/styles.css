@@ -13,11 +13,13 @@ text-align: center;
 font-size: 85px;
 }
 h2{
-    font-size: 96px;
+    font-size: 75px;
+    font-family: 'Playfair Display', serif;;
 }
 p{
-    font-size: 16px;
+    font-size: 24px;
     line-height: 30px;
+    font-family: 'Poppins', sans-serif;
 }
 .hero{
     background-color: var(--secondary-color);
@@ -30,7 +32,7 @@ p{
     margin: 0;
 }
 .hero h2{
-     font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 28px;
     line-height: 1,4;
     font-weight: normal;

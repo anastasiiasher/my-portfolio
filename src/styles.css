@@ -81,4 +81,7 @@ p{
         font-size: 48px;
         text-align: center;
     }
+    .btn-branding-outline{
+        padding: 120px 60px;
+    }
 }

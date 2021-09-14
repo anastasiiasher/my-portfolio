@@ -83,6 +83,6 @@ p{
     }
    .btn-branding-outline{
        display: flex;
-       text-align: center;
+       padding: 30px 60px;
    }
 }

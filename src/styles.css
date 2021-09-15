@@ -73,6 +73,15 @@ p{
     padding: 160px 20px;
     margin: 30px;
 }
+.wrap-portfolio h1{
+    font-size: 64px;
+    line-height: 80px;
+}
+.wrap-portfolio p{
+text-align: center;
+margin: 20px;
+background-color: var(--secondary-color);
+}
 @media (max-width: 991px){
     h1{
         font-size: 52px;

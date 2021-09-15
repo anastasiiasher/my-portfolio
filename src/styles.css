@@ -88,6 +88,9 @@ background-color: var(--secondary-color);
 display: block;
 justify-content: center;
 }
+.carousel-inner{
+    max-width: 40%;
+}
 @media (max-width: 991px){
     h1{
         font-size: 52px;

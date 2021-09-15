@@ -85,7 +85,7 @@ background-color: var(--secondary-color);
     font-family: 'Playfair Display', serif;
 }
 .pictures img{
-    max-width: 40%;
+    max-width: 10%;
 }
 @media (max-width: 991px){
     h1{

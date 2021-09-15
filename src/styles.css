@@ -82,6 +82,12 @@ text-align: center;
 margin: 20px;
 background-color: var(--secondary-color);
 }
+.wrap-portfolio h2{
+    text-align: center;
+    line-height: 80px;
+    font-size: 56px;
+    font-family: 'Playfair Display', serif;
+}
 @media (max-width: 991px){
     h1{
         font-size: 52px;

@@ -86,6 +86,7 @@ background-color: var(--secondary-color);
 }
 .smallpics img{
     max-width: 40%;
+    max-height: 40%;
 }
 @media (max-width: 991px){
     h1{

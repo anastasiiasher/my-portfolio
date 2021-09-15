@@ -91,4 +91,8 @@ p{
         font-size: 48px;
         text-align: center;
     }
+    .btn-branding, .btn-branding-outline{
+        display: block;
+        justify-content: center;
+    }
 }

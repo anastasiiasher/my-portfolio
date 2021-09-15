@@ -85,8 +85,8 @@ background-color: var(--secondary-color);
     font-family: 'Playfair Display', serif;
 }
 .smallpics img{
-    max-width: 40%;
-    max-height: 40%;
+    max-width: 20%;
+    max-height: 20%;
 }
 @media (max-width: 991px){
     h1{

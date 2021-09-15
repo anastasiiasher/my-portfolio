@@ -59,6 +59,15 @@ p{
 .color{
      background-color: var(--secondary-color);;
 }
+.about-section h1{
+    font-size: 64px;
+    line-height: 80px;
+    font-family:'Playfair Display', serif;;
+}
+.about-section h3{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;;
+}
 @media (max-width: 768px){
     h1{
         font-size: 52px;

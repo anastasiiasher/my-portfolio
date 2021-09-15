@@ -84,6 +84,9 @@ background-color: var(--secondary-color);
     font-size: 56px;
     font-family: 'Playfair Display', serif;
 }
+.pictures img{
+    max-width: 40%;
+}
 @media (max-width: 991px){
     h1{
         font-size: 52px;
@@ -121,5 +124,8 @@ background-color: var(--secondary-color);
     }
     .about-section p{
         font-size: 20px;
+    }
+    .pictures img{
+        max-width: 80%;
     }
 }

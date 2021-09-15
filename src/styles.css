@@ -71,8 +71,7 @@ p{
 }
 .content-page{
     padding: 160px 20px;
-    margin: 30px;
-    background-color: var(--secondary-color);
+    margin: 10px auto;
 }
 .wrap-portfolio h1{
     font-size: 64px;

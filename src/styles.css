@@ -40,11 +40,12 @@ footer .social-media a{
     margin: 0 20px;
     color: var(--branding-color);
     background-color: var(--secondary-color);
-    font-size: 18px;
-    padding: 10px 10px;
+    font-size: 20px;
+    padding: 10px 12px;
     border-radius: 50%;
     transition: all 100ms ease-in-out;
     text-decoration: none;
+    text-align: center;
 }
 footer .social-media a:hover{
     color:var(--secondary-color);

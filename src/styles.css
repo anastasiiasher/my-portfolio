@@ -42,7 +42,7 @@ footer .social-media a{
     color: var(--branding-color);
     background-color: var(--secondary-color);
     font-size: 20px;
-    padding: 10px 14px;
+    padding: 9px 12px;
     border-radius: 50%;
     transition: all 100ms ease-in-out;
     text-decoration: none;

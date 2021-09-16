@@ -52,8 +52,8 @@ footer .contact-box{
 footer .contact-box p{
     margin: 0;
 }
-p .project-open{
-    font-size: 8px;
+.project-open{
+    font-size: 5px;
 }
 .hero{
     background-color: var(--secondary-color);

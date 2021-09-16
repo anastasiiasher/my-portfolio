@@ -1,28 +1,32 @@
 :root{
     --branding-color: #7c73e6; 
     --secondary-color: #fafafa; 
+    --third-color: #c4c1e0; 
+    --text-color: #0f3057;
 }
 h3{
 font-family: 'Poppins', sans-serif;
 text-align: center;
-color: #0f3057;
+color: var(--text-color);
 }
 
 h1{
 font-family: 'Playfair Display', serif;
 text-align: center;
 font-size: 85px;
-color: #0f3057; 
-}
+color: var(--text-color);
+} 
+
 h2{
     font-size: 46px;
     font-family: 'Playfair Display', serif;;
-    color: #0f3057;
+    color: var(--text-color);
 }
+
 h4{
     font-family: 'Playfair Display', serif;;
     font-size: 48px;
-    color: #0f3057; 
+    color: var(--text-color);
 }
 p{
     font-size: 18px;
@@ -85,6 +89,10 @@ footer .contact-box p{
     padding: 10px 20px;
     text-align: center;
 }
+.btn-branding:hover{
+    transition: all 100ms ease-in-out;
+    background-color: var(--third-color);
+}
 .btn-branding-outline{
     padding: 15px 30px;
     font-size: 18px;
@@ -92,6 +100,11 @@ footer .contact-box p{
     border-radius: 4px;
     color: var(--branding-color);
     border: 1px solid var(--branding-color);
+}
+.btn-branding-outline:hover{
+    transition: all 100ms ease-in-out;
+    color: var(--third-color);
+    border: 1px solid var(--third-color);
 }
 .project{
     font-size: 48px;

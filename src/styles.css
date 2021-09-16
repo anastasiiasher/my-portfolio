@@ -127,7 +127,5 @@ background-color: var(--secondary-color);
     }
     .contactwrap img{
         max-width: 350px;
-        display: block;
-        justify-content: center;
     }
 }

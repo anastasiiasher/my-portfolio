@@ -186,5 +186,8 @@ transition: all 100ms ease-in-out;
     .contactwrap img{
         max-width: 350px;
     }
-
+}
+.dark-mode{
+    background-color: var(--text-color);
+    color:var(--secondary-color);
 }

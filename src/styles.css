@@ -136,12 +136,9 @@ background-color: var(--secondary-color);
     font-size: 56px;
     font-family: 'Playfair Display', serif;
 }
-#logo {
-    color:var(--text-color);
-}
 #logo:hover{
     transition: all 100ms ease-in-out;
-    color:var(--branding-color);
+    width: 60px;
 }
 @media (max-width: 991px){
     h1{

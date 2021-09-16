@@ -1,6 +1,7 @@
-function darkmode() {
-  var element = document.body;
-  element.classList.toggle("dark-mode");
+function darkmode(event) {
+    event.preventDefault();
+    var element = document.body;
+    element.classList.toggle("dark-mode");
 }
-let darkmode = document.querySelector(#darkmode);
-darkmode.addEventListener( "click", darkmode)
+document.querySelector("button#darkmode")=btndm;
+btndm.addEventListener("click", darkmode);

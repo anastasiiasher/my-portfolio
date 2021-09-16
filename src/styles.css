@@ -53,7 +53,7 @@ footer .social-media a:hover{
 }
 footer .contact-box{
     background-color: var(--secondary-color);
-    padding: 30px 120px;
+    padding: 30px 80px;
     border-radius: 10px;
 }
 footer .contact-box p{

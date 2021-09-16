@@ -126,6 +126,6 @@ background-color: var(--secondary-color);
         font-size: 56px;
     }
     .contactwrap img{
-        max-width: 100px;
+        max-width: 350px;
     }
 }

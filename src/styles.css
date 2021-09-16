@@ -16,10 +16,46 @@ h2{
     font-size: 46px;
     font-family: 'Playfair Display', serif;;
 }
+h4{
+    font-size: 48px;
+}
 p{
     font-size: 18px;
     line-height: 30px;
     font-family: 'Poppins', sans-serif;
+}
+footer{
+    margin: 60px 0;
+}
+footer .email-link{
+    font-size: 24px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+}
+footer .email-link:hover{
+    color: var(--branding-color);
+}
+footer .social-media a{
+    margin: 0 20px;
+    color: var(--branding-color);
+    background-color: var(--secondary-color);
+    font-size: 18px;
+    padding: 10px 15px;
+    border-radius: 50%;
+    transition: all 100ms ease-in-out;
+}
+footer .social-media a:hover{
+    color:var(--secondary-color);
+    background-color: var(--branding-color);
+}
+footer .contact-box{
+    background-color: var(--secondary-color);
+    padding: 30px 120px;
+    border-radius: 10px;
+}
+footer .contact-box p{
+    margin: 0;
 }
 .hero{
     background-color: var(--secondary-color);
@@ -128,4 +164,5 @@ background-color: var(--secondary-color);
     .contactwrap img{
         max-width: 350px;
     }
+
 }

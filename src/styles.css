@@ -61,6 +61,9 @@ footer .contact-box{
 footer .contact-box p{
     margin: 0;
 }
+p .project-open{
+    font-size: 12px;
+}
 .hero{
     background-color: var(--secondary-color);
     text-align: center;
